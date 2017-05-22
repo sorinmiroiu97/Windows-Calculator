@@ -1,0 +1,18 @@
+c:\users\lab 75\documents\visual studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+c:\users\lab 75\documents\visual studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+c:\users\lab 75\documents\visual studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+c:\users\lab 75\documents\visual studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojResolveAssemblyReference.cache
+c:\users\lab 75\documents\visual studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+c:\users\lab 75\documents\visual studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+c:\users\lab 75\documents\visual studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.Cache
+c:\users\lab 75\documents\visual studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+c:\users\lab 75\documents\visual studio 2017\Projects\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\Angrry\Desktop\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\Angrry\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\Angrry\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\Angrry\Desktop\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\Angrry\Desktop\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\Angrry\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojResolveAssemblyReference.cache
+C:\Users\Angrry\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\Angrry\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\Angrry\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.Cache
