@@ -1,0 +1,9 @@
+C:\Users\Angrry\Desktop\WindowsFormsApp8\WindowsFormsApp8\bin\Release\WindowsFormsApp8.exe.config
+C:\Users\Angrry\Desktop\WindowsFormsApp8\WindowsFormsApp8\bin\Release\WindowsFormsApp8.exe
+C:\Users\Angrry\Desktop\WindowsFormsApp8\WindowsFormsApp8\bin\Release\WindowsFormsApp8.pdb
+C:\Users\Angrry\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Release\WindowsFormsApp8.csprojResolveAssemblyReference.cache
+C:\Users\Angrry\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Release\WindowsFormsApp8.Form1.resources
+C:\Users\Angrry\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Release\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\Angrry\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Release\WindowsFormsApp8.csproj.GenerateResource.Cache
+C:\Users\Angrry\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Release\WindowsFormsApp8.exe
+C:\Users\Angrry\Desktop\WindowsFormsApp8\WindowsFormsApp8\obj\Release\WindowsFormsApp8.pdb
